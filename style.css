@@ -1,0 +1,394 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top{
+    height:40px;
+    background-color: black;
+
+}
+
+.menu  {
+    display: flex;
+    justify-content: space-between;
+}
+.icons i{
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 10px;
+    
+}
+.menu-right a{
+    text-decoration: none;
+   margin-left: 20px; 
+}
+.menu-right{
+    margin-top: 10px;
+}
+.head{
+    text-align: center;
+}
+
+.head-text{
+    display: flex;
+    justify-content: center;
+}
+.head-text h2{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+/* head end */
+
+.row1{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.item1 img{
+    width: 900px;
+    height: 500px;
+}
+.text1{
+    height: 500px;
+    
+    text-align: center;  
+      
+}
+.text1 h2{
+    width: 400px;
+    margin:150px auto;
+}
+.text1 p{
+    margin-top: -140px;
+}
+.btn{
+    display: flex;
+    position: absolute;
+   margin-top:250px ; 
+   margin-left: 970px;  
+    
+}
+.btn1 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+.btn2 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+
+/* row1 end */
+
+.row2{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.text2{
+    height: 500px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;  
+   
+      
+}
+.text2 h2{
+    width: 400px;
+    margin:150px auto;
+    
+}
+.text2 p{
+    margin-top: -140px;
+}
+.btn22{
+    display: flex;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 250px;
+   
+    
+}
+.her1 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+    margin-bottom: 500px;
+}
+.him1 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+.item2 img{
+    width: 900px;
+    height: 500px;
+}
+
+/* row2 end */
+
+.row3{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.item3 img{
+    width: 900px;
+    height: 500px;
+}
+.text3{
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;  
+      
+}
+.text3 h2{
+    width: 400px;
+    margin:150px auto;
+    color: #fff;
+}
+.text3 p{
+    margin-top: -140px;
+    color: #fff;
+}
+.btn33{
+    display: flex;
+    position: absolute;
+   margin-top:250px ; 
+   margin-left: 970px;  
+    
+}
+.him2 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #000000;
+    border: solid 1px #ffffff;
+    color: #ffffff;
+}
+.her2 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #0f0f0f;
+    border: solid 1px #ffffff;
+    color: #ffffff;
+}
+
+/* row3 end */
+
+
+.row4{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.text4{
+    height: 500px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;  
+   
+      
+}
+.text4 h2{
+    width: 400px;
+    margin:150px auto;
+    
+}
+.text4 p{
+    margin-top: -140px;
+}
+.btn44{
+    display: flex;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 250px;
+   
+    
+}
+.her3 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+    margin-bottom: 500px;
+}
+.him3 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+.item4 img{
+    width: 900px;
+    height: 500px;
+}
+
+/* row4 end */
+
+.row5{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.item5 img{
+    width: 900px;
+    height: 500px;
+}
+.text5{
+    height: 500px;
+    
+    text-align: center;  
+      
+}
+.text5 h2{
+    width: 400px;
+    margin:150px auto;
+}
+.text5 p{
+    margin-top: -140px;
+}
+.btn55{
+    display: flex;
+    position: absolute;
+   margin-top:250px ; 
+   margin-left: 970px;  
+    
+}
+.btn55 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+.btn55 button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+
+/* row5 end */
+
+.row6{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.text6{
+    height: 500px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;  
+   
+      
+}
+.text6 h2{
+    width: 400px;
+    margin:150px auto;
+    
+}
+.text6 p{
+    margin-top: -140px;
+}
+.btn66{
+    display: flex;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 250px;
+   
+    
+}
+.discover button{
+    width: 100px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+    margin-bottom: 500px;
+}
+.discover button{
+    width: 200px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+}
+.item6 img{
+    width: 900px;
+    height: 500px;
+}
+
+
+/* row6 end */
+
+.row7{
+    display: flex;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.text7{
+    height: 500px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;  
+   
+      
+}
+.text7 h2{
+    width: 400px;
+    margin:150px auto;
+    
+}
+.text7 p{
+    margin-top: -140px;
+}
+.btn77{
+    display: flex;
+    position: absolute;
+    margin-left:1000px;
+    margin-top: 250px;
+   
+    
+}
+.explore button{
+    width: 200px;
+    height: 40px;
+    margin-right: 50px;
+    background-color: #fff;
+    border: solid 1px #000000;
+    margin-bottom: 500px;
+}
+
+.item7 img{
+    width: 900px;
+    height: 500px;
+}
+
+/* row7 end */
+
+.newsletter {
+    text-align: center;
+    margin-top: 60px;
+}
